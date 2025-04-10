@@ -6,7 +6,10 @@ package wars;
 
 /**
  *
- * @author Hasan Salim
+ * @author Hamza Hasan Memon (22084720)
+ * @author Biben Benny (21073767)
+ * @author Don Joy (22104894)
+ * @author Ibrahim Oladimeji Soyoye (21001067)
  */
 public class MyShipTest {
     public static void main(String[] args) {
